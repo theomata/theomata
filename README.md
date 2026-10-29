@@ -53,16 +53,6 @@ Study materials and learning resources for networking concepts.
 ### [Portfolio Website Source](https://github.com/theomata/Landing-Page)
 The repository for my existing portfolio website.
 
-## GitHub Statistics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=theomata&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub statistics for theomata" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theomata&layout=compact&hide_border=true&langs_count=6" alt="Most-used languages for theomata" />
-
-</div>
-
-<sub>Statistics are provided by the third-party GitHub Readme Stats service and may be unavailable or rate-limited. Language percentages reflect repository contents, not necessarily proficiency.</sub>
 
 ## Find Me Online
 
