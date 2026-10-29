@@ -71,7 +71,4 @@ The repository for my existing portfolio website.
 
 ---
 
-<div align="center">
-<sub>Learn by building. Improve by testing. Share by documenting.</sub>
-</div>
 
